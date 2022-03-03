@@ -31,7 +31,7 @@ WebUI.setText(findTestObject('URL/Formulario BoPe/SET_nombre'), 'Andres')
 
 WebUI.setText(findTestObject('URL/Formulario BoPe/SET_apellidos'), 'C@rd0na')
 
-WebUI.selectOptionByIndex(findTestObject('URL/Formulario BoPe/SELECT_sexo'), 2)
+WebUI.selectOptionByIndex(findTestObject('URL/Formulario BoPe/SELECT_sexo'), 1)
 
 WebUI.selectOptionByIndex(findTestObject('URL/Formulario BoPe/SELECT_tipoDOC'), 2)
 
